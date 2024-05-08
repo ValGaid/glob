@@ -9,4 +9,5 @@ func main() {
 	fmt.Println(a)
 
 	// oh my glob!
+	// glob2
 }
