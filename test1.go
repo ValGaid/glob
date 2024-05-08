@@ -13,4 +13,6 @@ func main() {
 	// glob 3
 	
 	// glob test 4
+
+	// glob 5 test clone
 }
